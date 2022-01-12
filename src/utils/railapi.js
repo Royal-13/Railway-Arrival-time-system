@@ -7,7 +7,7 @@ module.exports = {
   params: {trainNumber: '12018'},
   headers: {
     'x-rapidapi-host': 'indian-railway-live-train.p.rapidapi.com',
-    'x-rapidapi-key': 'e982b061e3msh873a79c33eca3b1p12c28ejsn710588bea809'
+    'x-rapidapi-key': //Write your api key here
   },
   params: {
     trainId : trainId
